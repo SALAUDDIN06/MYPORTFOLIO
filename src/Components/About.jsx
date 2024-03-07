@@ -37,10 +37,8 @@ const skillsList = [
   "SQL database management",
   "Microsoft Excel",
   "Tableau data visualization software",
+  "power BI",
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
 ];
 
 /**
