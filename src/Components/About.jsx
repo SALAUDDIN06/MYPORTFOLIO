@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Data Science student studying at Malla Reddy University. I enjoy creating unique and simplistic user interfaces which cosist of  Analytical Projects ";
+  "I'm a Data Science student studying at Malla Reddy University. I enjoy creating unique and simplistic user interfaces & Analytical Projects ";
 
 /**
  * List of some of skills or technologies you work on, are learning,

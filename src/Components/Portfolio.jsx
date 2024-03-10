@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Where there is a will there's is a way!!",
     description:
-      "I have stared my journey with Data Analytics and i found many thigs about  the world through data analysis." ,
+    "I have started my journey with Data Analytics and I have discovered many things about the world through data analysis.",
     url: "",
   },
   {
